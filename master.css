@@ -17,7 +17,7 @@ overflow: hidden;z-index:-5; font-size: 0;}
 /*.앞 텍스트,로고 밀림현상;}*/
 
 .back{padding: 0;position: flex;position: absolute;
-left: -150px;padding-top: 210px; z-index:1; opacity: 20%;z-index:-4;background-attachment: fixed;}
+left: -150px;padding-top: 120px; z-index:1; opacity: 20%;z-index:-4;background-attachment: fixed;}
 
 .main-text{position: absolute; : inline-block; left:1330px; top:500px;z-index:10;background-attachment: fixed;}
 .main-text:hover{transform: translateY(-13px);}
